@@ -1,0 +1,281 @@
+///*
+//  Localizable1.strings
+//  Mofers
+//
+//  Created by Rashdan Natiq on 2023-03-06.
+//
+//*/
+//
+"splashTagLine"="Made to Make you Happy.. By Saving";
+"home"="Home";
+"saved"="Saved";
+"notification"="Notifications";
+"profile"="Profile";
+
+"categories"="Categories";
+"cafe"="Cafe";
+"restaurant"="Restaurants";
+"streetFood"="Street Food";
+"dealsTagLine"="Deals of the day";
+"placeholderCafe"="Find a Cafe";
+"placeholderRestaurant"="Find a Restaurants";
+"share"="Share";
+"more"="More";
+////////////////////////////
+"off"="30% OFF";
+"sliderSubTitle"="Dessert Is So Needed";
+"promoCode"="Promo Code:4343";
+////////////////////////////
+// Login;
+"helloThere"="Hello There";
+"enterPhoneNumber"="Enter your Phone Number";
+"to_login_Or"="to login,Or";
+"Create_new_account"="Create new account";
+"createAccount"="Create Account";
+"mobileNumber"="Mobile Number";
+"password"="Password";
+"login"="Login";
+"or"="OR";
+"apple"="Apple";
+"cancel"="Cancel";
+"forgetPassword"="Forget Password";
+// Categories;
+"meat"="Meat";
+"coffee"="Coffee";
+"italian"="Italian";
+"breakFast"="BreakFast";
+"bakery"="Bakery";
+"american"="American";
+"bbq"="BBQ";
+"saudi"="Saudi";
+"partyBox"="Party Box";
+"burgers"="Burgers";
+"healtyFood"="Healty Food";
+"sandwiched"="Sandwiched";
+"asian"="Asian";
+"international"="International";
+
+
+/////////////////////////
+// Profile Screen
+"settings"="Settings";
+"settingSubTitle"="Check the status of settings";
+
+// Manage Section
+"manage"="Manage";
+"editProfile"="Edit Profile";
+"editProfileTitle"="Change your account information";
+"changePassword"="Change Password";
+"changePasswordTitle"="Change your password";
+"editCity"="Edit City";
+"editCityTitle"="Change your city";
+
+// Notification Section
+"notification"="Notification";
+"pushNotification"="Push Notification";
+"pushNotificationTitle"="For daily update you will get it";
+"emailNotification"="Email Notification";
+"emailNotificationTitle"="Get update to your Email";
+
+// More Section
+"faq"="FAQ?";
+"termsConditions"="Conditions and policies";
+"rateUs"="Rate Us";
+"rateUsTitle"="Rate us playstore,appstore";
+"suggest"="Suggest";
+"logout"="Logout";
+
+// Setting Screen
+"setting"="Setting";
+"language"="Language";
+"english"="English";
+"arabic"="Arabic";
+"cancel"="CANCEL";
+"selectLanguage"="Select Language";
+"deleteAccount"="Delete Account";
+"save"="Save";
+
+// Delete Account
+"deleteAccount"="Delete Account";
+"delAccountTitle"="You are about to delete your account";
+"delAccountDiscription"="Please tell us why do you want to; delete your account";
+"delAccountReason1"="I dont want to use anymore";
+"delAccountReason2"="I am using another account";
+"delAccountReason3"="I am not satisfied your service";
+"delAccountReason4"="App is not working properly";
+"delAccount"="DELETE MY ACCOUNT NOT";
+"changeMind"="I,VE CHANGE MY MIND";
+
+// Delete Account PopUp
+"request"="Your Request";
+"requestTitle"="Successfully";
+"requestDiscription"="you will now be logged out of your account";
+"requestOk"="OK";
+
+// Edit Profile Screen Section;
+"fullName"="Full Name";
+"emailAddress"="Email Address";
+"phoneNumber"="Phone Number";
+"bio"="Bio";
+"saveChanges"="SAVE CHANGES";
+
+// Change Password Screen Section;
+"oldPassword"="Old Password";
+"newPassword"="New Password";
+"confirmPassword"="Confirm Password";
+
+// Edit City Section;
+"amman"="Amman";
+"zarqa"="Zarqa";
+"irbid"="Irbid";
+"russeifa"="Russeifa";
+"sahab"="Sahab";
+
+// Suggest Screen Section
+"suggestSubject"="Subject";
+"suggestDetails"="Details";
+"send"="Send";
+
+// FAQ Screen Section;
+"groupTitle1"="You are about to delete your account";
+"groupDiscription1"="Please tell us why do you want to delete your account";
+"groupTitle2"="I dont want to use anymore";
+"groupDiscription2"="Please tell us why do you want to delete your account";
+"groupTitle3"="I am using another account";
+"groupDiscription3"="Please tell us why do you want to delete your account";
+"groupTitle4"="I am not satisfied with service";
+"groupDiscription4"="Please tell us why do you want to delete your account";
+"groupTitle5"="App is not working properly";
+"groupDiscription5"="Please tell us why do you want to delete your account";
+
+// Terms And Conditions Screen
+"termAndCondition"="Terms And Conditions";
+
+
+// Rate Us Section;
+"rateUsAlertTitle"="Oops";
+"rateUsAlertSubTitle"="Coming Soon";
+"rateUsAlertAction"="Cancel";
+
+// Logout Section;
+"logoutAlertTitle"="Logout";
+"logoutAlertSubTitle"="Are you sure you want to logout?";
+"logoutAlertAction1"="Cancel";
+"logoutAlertTitleAction2"="Logout";
+
+// Notification List Screen
+"notificationListTitle"="Final Call";
+"notificationListSubTitle"="Check the status";
+
+// Detail Card Section
+"detailCardRealPrice"="245 SAR";
+"detailCardDiscount"="90 SAR";
+"detailCardTitle"="Esquiresksa";
+"detailCardSubTitle"="Alsafa District,North of jeddah";
+
+// Detail Page Screen
+"detailCardDiscription"="Alsafa District,North of jeddah Alsafa District,North of jeddah Alsafa District,North of jeddah Alsafa District,North of jeddah Alsafa District,North of jeddah Alsafa District,North of jeddah"; // pending tran
+"details"="Details";
+"rating"="Rating";
+"highlighted"="Highlighted";
+"highlightedSubTitle"="Drive into a world of flavours and relish 2 fresh shrimp meals including rice and corn for 2 people from habaromahar for SAR 99 only!"; // pending tran
+"conditions"="Conditions";
+"conditionSubTitle1"="Valid for 30 days from date to purchase";
+"conditionSubTitle2"="Valid daily for takeaway order only";
+"conditionSubTitle3"="Timing: From 3pm to 1am";
+"conditionSubTitle4"="All preventive measures and precautions are applied according to the instruction of the Ministry of health";
+"conditionSubTitle5"="Please read the terms that apply for all deals here";
+"conditionSubTitle6"="This merchant will accept your purchased voucher when presented on a mobile device, or can redeem from the Cobone App or if you prefer from a printed copy";  // pending tran
+"noticeTitle"="Please note:";
+"noticeSubTitle"="From iOS 16 and later, we can pass an array of Hashable data directly to the NavigationStack to control which data is currently on the stack";  // pending tran
+
+// Rating Section
+"reviewTitle"="100% of app customer reviews documents the reviews after they got the offer";
+"reviewTag1"="Offer Sqaure service";  // add to google sheet
+"reviewTag2"="search steps";  // add to google sheet
+"reviewTag3"="Restaurant/cafe reception";  // add to google sheet
+"reviewTag4"="Eating quality";  // add to google sheet
+"reviewTag5"="offer price";  // add to google sheet
+"reviewTag6"="location restaurant/cafe";  // add to google sheet
+"dailyReviews"="Dalia,reviews";
+"userReviewTitle"="Raged";
+"userReviewDiscription"="They were about an hour late to us in a food arived cold,the dishes were different from what was described in a show";
+"date"="23 Dec 2020";
+
+
+//  Reset Password Screen
+"forgetPassword"="Forget password";
+"resetPassword"="Reset Your Password";
+"enterCodeDiscription"="Enter the 4-Digit code send to you at your mobile number";
+"enterPassword"="Enter New Password";
+"resetBtn"="Reset Password";
+
+// Forget Password Screen
+"enterNumberDiscription"="Enter your Mobile number and we will send you a reset instruction";
+"addNumber"="Mobile Number";
+
+// Create Account Done PopUp
+"successAcountTitle"="Create new account";
+"done"="DONE";
+
+// Add Phone Number Screen
+"signup"="Signup";
+"addMobile"="Add your Mobile";
+"addNumberDiscription"="Enter your phone number to use review station and enjoy your food";
+"phoneNumber"="Phone Number";
+"addNumber"="ADD NUMBER";
+
+// Sign Up Screen
+"enterEmail_password"="Enter your Name,Email and Password\nfor sign up.";
+"signUtermsconditon"="By Signing up you agree to our Terms Conditions & Privacy Policy.";
+"dateOfBirth"="Date of birth";
+
+// Reset OTP Screen
+"dontReceiveCode"="Didn't receive code?";
+"resendAgain"="Resend Again.";
+
+// Restaurant List
+"himHortons"="Him hortons";
+"countOffers"="Count Offers:3";
+"distance"="Distance:45.0km";
+"categoryType"="Category:Breakfast,lanch";
+
+// ReviewPostView
+"dalia"="Dalia";
+"userShareExperience"="Share details of your own experience at this place";
+"post"="POST";
+
+// User Interest Page
+"whatYouLike"="What's you like";
+"driveThrough"="Drive Through";
+"foodType"="Type of food";
+"userConnect"="How Did You Hear About Us?";
+"twitter"="Twitter";
+"whatsapp"="WhatsApp";
+"snapChat"="Snapchat";
+"instagram"="Instagram";
+"onDoor"="On Door";
+"other"="Other";
+
+// Add Location Screen
+"findNearRestaurant"="Find restaurants near you";
+"findNearRestaurantDisc"="Please enter your location and allow access to your location to find restaurants near you.";
+"useCurrentLocation"="Use Current Location";
+"enterNewAddress"="Enter a new address";
+
+// Map Screen
+"confirmLocation"="Confirm Location";
+
+// AdvertizementSection
+"buyOferrs"="Buy Offers";
+"her"="Her";
+"heightestRate"="Highest Rate";
+"offersWeek"="Offers Week";
+"inviteYou"="invite You";
+
+// Near to Restaurants
+"nearRestaurants"="Near to you";
+"mcDonalds"="McDonald's";
+
+
+///////////////////////////

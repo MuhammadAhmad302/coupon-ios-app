@@ -1,0 +1,568 @@
+//
+///*
+//  Localizable1.strings
+//  Mofers
+//
+//  Created by Rashdan Natiq on 2023-03-06.
+//
+//*/
+//
+"splashTagLine"="صنعت لتجعلك سعيدا .. بالتوفير";
+"home"="الرئيسية";
+"saved"="تم الحفظ";
+"notification"="إشعارات";
+"profile"="حساب تعريفي";
+
+"categories"="فئات";
+"cafe"="كافيه";
+"restaurant"="مطاعم";
+"streetFood"="شارع الطعام";
+"dealsTagLine"="صفقات اليوم";
+"placeholderCafe"="ابحث عن مقهى";
+"placeholderRestaurant"="ابحث عن مطاعم";
+"share"="شارك";
+"more"="أكثر";
+////////////////////////////
+"off"="تخفيض 30";
+"sliderSubTitle"="هناك حاجة لذلك الحلوى";
+"promoCode"="الرمز الترويجي:";
+////////////////////////////
+// Login;
+"helloThere"="أهلاً بك";
+"enterPhoneNumber"="أدخل رقم هاتفك";
+"to_login_Or"="لتسجيل الدخول،أو";
+"Create_new_account"="انشاء حساب جديد";
+"createAccount"="إنشاء حساب";
+"mobileNumber"="رقم الهاتف المحمول";
+"password"="كلمة المرور";
+"login"="تسجيل الدخول";
+"or"="أو";
+"apple"="تفاحة";
+"cancel"="الغاء";
+"forgetPassword"="نسيت كلمة المرور";
+// Categories;
+"meat"="لحمة";
+"coffee"="قهوة";
+"italian"="إيطالي";
+"breakFast"="إفطار";
+"bakery"="مخبز";
+"american"="أمريكي";
+"bbq"="شواء";
+"saudi"="سعودي";
+"partyBox"="صندوق الحفلات";
+"burgers"="برجر";
+"healtyFood"="الطعام الصحي";
+"sandwiched"="ساندويش";
+"asian"="آسيا";
+"international"="دولي";
+
+
+/////////////////////////
+// Profile Screen
+"more"="أكثر";
+"settings"="إعدادات";
+"settingSubTitle"="تحقق من حالة الإعدادات";
+
+// Manage Section
+"manage"="يدير";
+"editProfile"="تعديل الملف الشخصي";
+"editProfileTitle"="قم بتغيير معلومات حسابك";
+"changePassword"="تغيير كلمة المرور";
+"changePasswordTitle"="غير كلمة المرور الخاصة بك";
+"editCity"="تحرير المدينة";
+"editCityTitle"="غير مدينتك";
+
+// Notification Section
+"notification"="إشعار";
+"pushNotification"="ارسال الاشعارات";
+"pushNotificationTitle"="للتحديث اليومي سوف تحصل عليه";
+"emailNotification"="اشعار بالبريد الإلكتروني;";
+"emailNotificationTitle"="احصل على تحديث إلى البريد الإلكتروني الخاص بك";
+
+// More Section
+"more"="أكثر";
+"faq"="التعليمات؟";
+"termsConditions"="الشروط والسياسات";
+"rateUs"="قيمنا";
+"rateUsTitle"="قيمنا على اب ستور و بلي ستور";
+"suggest"="اقترح";
+"logout"="تسجيل خروج";
+
+// Setting Screen
+"setting"="الاعدادات";
+"language"="لغة";
+"english"="إنجليزي";
+"arabic"="عربي";
+"cancel"="الغاء";
+"selectLanguage"="اختار اللغة";
+"deleteAccount"="حذف الحساب";
+"save"="حفظ";
+
+// Delete Account
+"deleteAccount"="حذف الحساب";
+"delAccountTitle"="أنت على وشك حذف حسابك";
+"delAccountDiscription"="من فضلك قل لنا لماذا تريد ذلك ؛ حذف حسابك";
+"delAccountReason1"="أنا لا أريد أن أستخدم بعد الآن";
+"delAccountReason2"="أنا أستخدم حسابًا آخر";
+"delAccountReason3"="أنا غير راضٍ عن خدمتك";
+"delAccountReason4"="التطبيق لا يعمل بشكل صحيح";
+"delAccount"="حذف حسابي لا";
+"changeMind"="أنا،VE غيرت رأيي";
+
+// Delete Account PopUp
+"request"="طلبك";
+"requestTitle"="بنجاح";
+"requestDiscription"="سيتم الآن تسجيل خروجك من حسابك";
+"requestOk"="نعم";
+
+// Edit Profile Screen Section;
+"fullName"="الاسم الكامل";
+"emailAddress"="عنوان البريد الإلكتروني";
+"phoneNumber"="رقم الهاتف";
+"bio"="نبذة عني";
+"saveChanges"="حفظ التغييرات";
+
+// Change Password Screen Section;
+"oldPassword"="كلمة المرور القديمة";
+"newPassword"="كلمة المرور الجديدة";
+"confirmPassword"="تأكيد كلمة المرور";
+
+// Edit City Section;
+"amman"="عمان";
+"zarqa"="الزرقاء";
+"irbid"="اربد";
+"russeifa"="الرصيفة";
+"sahab"="سحاب";
+
+// Suggest Screen Section
+"suggestSubject"="موضوع";
+"suggestDetails"="تفاصيل";
+"send"="ارسال";
+
+// FAQ Screen Section;
+"groupTitle1"="أنت على وشك حذف حسابك";
+"groupDiscription1"="من فضلك أخبرنا لماذا تريد حذف حسابك";
+"groupTitle2"="أنا لا أريد أن أستخدم بعد الآن";
+"groupDiscription2"="من فضلك أخبرنا لماذا تريد حذف حسابك";
+"groupTitle3"="أنا أستخدم حسابًا آخر";
+"groupDiscription3"="من فضلك أخبرنا لماذا تريد حذف حسابك";
+"groupTitle4"="أنا غير راضٍ عن الخدمة";
+"groupDiscription4"="من فضلك أخبرنا لماذا تريد حذف حسابك";
+"groupTitle5"="التطبيق لا يعمل بشكل صحيح";
+"groupDiscription5"="من فضلك أخبرنا لماذا تريد حذف حسابك";
+
+// Terms And Conditions Screen
+"termAndCondition"="الأحكام والشروط";
+""="";
+""="";
+""="";
+
+// Rate Us Section;
+"rateUsAlertTitle"="أُووبس";
+"rateUsAlertSubTitle"="قريباً";
+"rateUsAlertAction"="يلغي";
+
+// Logout Section;
+"logoutAlertTitle"="تسجيل خروج";
+"logoutAlertSubTitle"="هل أنت متأكد أنك تريد تسجيل الخروج؟";
+"logoutAlertAction1"="الغاء";
+"logoutAlertTitleAction2"="تسجيل خروج";
+
+// Notification List Screen
+"notificationListTitle"="النداء الاخير";
+"notificationListSubTitle"="تفقد الحالة";
+
+// Detail Card Section
+"detailCardRealPrice"="245 ريال سعودي";
+"detailCardDiscount"="90 ريال سعودي";
+"detailCardTitle"="حلال";
+"detailCardSubTitle"="حي الصفا شمال جدة";
+
+// Detail Page Screen
+"detailCardDiscription"="حي الصفا شمال جدة حي الصفا شمال جدة حي الصفا شمال جدة حي الصفا شمال جدة حي الصفا شمال جدة حي الصفا شمال جدة"; // pending tran
+"details"="تفاصيل";
+"rating"="تقييم";
+"highlighted"="تسليط الضوء";
+"highlightedSubTitle"="انطلق في عالم من النكهات واستمتع بوجبتين من الروبيان الطازج متضمنين الأرز والذرة لشخصين من habaromhar مقابل 99 ر.س. فقط!"; // pending tran
+"conditions"="شروط";
+"conditionSubTitle1"="مرحبا بالعالم!صالحة لمدة 30 يوما من تاريخ الشراء";
+"conditionSubTitle2"="مرحبا بالعالم!صالح يوميا للطلبات التيك أواي فقط";
+"conditionSubTitle3"="مرحبا بالعالم!التوقيت: من 3 مساءً إلى 1 صباحًا";
+"conditionSubTitle4"="مرحبا بالعالم!يتم تطبيق كافة الإجراءات والاحتياطات الوقائية حسب تعليمات وزارة الصحة";
+"conditionSubTitle5"="يرجى قراءة الشروط التي تنطبق على جميع الصفقات هنا";
+"conditionSubTitle6"="سيقبل هذا التاجر القسيمة التي اشتريتها عند تقديمها على جهاز محمول ، أو يمكنه الاسترداد من تطبيق كوبون أو إذا كنت تفضل نسخة مطبوعة";  // pending tran
+"noticeTitle"="يرجى الملاحظة:";
+"noticeSubTitle"="من نظام التشغيل iOS 16 والإصدارات الأحدث ، يمكننا تمرير مجموعة من البيانات القابلة للتجزئة مباشرة إلى NavigationStack للتحكم في البيانات الموجودة حاليًا في المكدس";  // pending tran
+
+// Rating Section
+"reviewTitle"="100٪ من مراجعات عملاء التطبيق توثق المراجعات بعد حصولهم على العرض";
+"reviewTag1"="خدمة اوفر سكوير";  // add to google sheet
+"reviewTag2"="خطوات البحث";  // add to google sheet
+"reviewTag3"="استقبال مطعم / مقهى";  // add to google sheet
+"reviewTag4"="جودة الأكل";  // add to google sheet
+"reviewTag5"="سعر العرض";  // add to google sheet
+"reviewTag6"="موقع مطعم / مقهى";  // add to google sheet
+"dailyReviews"="مراجعات Dalia";
+"userReviewTitle"="رغد";
+"userReviewDiscription"="لقد تأخروا حوالي ساعة بالنسبة لنا في طعام نشأ باردًا ، وكانت الأطباق مختلفة عما تم وصفه في العرض";
+"date"="23 ديسمبر 2020";
+//  Reset Password Screen
+"forgetPassword"="نسيت كلمة المرور";
+"resetPassword"="اعد ضبط كلمه السر";
+"enterCodeDiscription"="أدخل الرمز المكون من 4 أرقام المرسل إليك على رقم هاتفك المحمول";
+"enterPassword"="أدخل كلمة مرور جديدة";
+"resetBtn"="إعادة تعيين كلمة المرور";
+
+// Forget Password Screen
+"enterNumberDiscription"="أدخل رقم هاتفك المحمول وسنرسل لك تعليمات إعادة التعيين";
+"addNumber"="رقم الهاتف المحمول";
+
+// Create Account Done PopUp
+"successAcountTitle"="انشاء حساب جديد";
+"done"="منتهي";
+
+// Add Phone Number Screen
+"signup"="اشتراك";
+"addMobile"="أضف هاتفك المحمول";
+"addNumberDiscription"="أدخل رقم هاتفك لاستخدام محطة المراجعة واستمتع بطعامك";
+"phoneNumber"="رقم التليفون";
+"addNumber"="أضف رقم";
+
+// Sign Up Screen
+"enterEmail_password"="أدخل الاسم والبريد الإلكتروني وكلمة المرور للتسجيل.";
+"signUtermsconditon"="بالتسجيل ، فإنك توافق على الشروط وسياسة الخصوصية الخاصة بنا.";
+"dateOfBirth"="تاريخ الميلاد";
+
+// Reset OTP Screen
+"dontReceiveCode"="لم تتلق رمز؟";
+"resendAgain"="إعادة مرة أخرى.";
+
+// Restaurant List
+"himHortons"="تيم هورتونز";
+"countOffers"="عدد العروض: 3";
+"distance"="المسافة: 45 كم";
+"categoryType"="التصنيف: الإفطار والغداء";
+
+// ReviewPostView
+"dalia"="داليا";
+"userShareExperience"="شارك تفاصيل تجربتك الخاصة في هذا المكان";
+"post"="بريد";
+
+// User Interest Page
+"whatYouLike"="ما تريد";
+"driveThrough"="الشراء من السيارة";
+"foodType"="نوع الطعام";
+"userConnect"="كيف سمعت عنا؟";
+"twitter"="تويتر";
+"whatsapp"="واتس اب";
+"snapShat"="سناب شات";
+"instagram"="انستغرام";
+"onDoor"="على الباب";
+"other"="آخر";
+
+// Add Location Screen
+"findNearRestaurant"="ابحث عن المطاعم القريبة منك";
+"findNearRestaurantDisc"="الرجاء إدخال موقعك أو السماح بالوصول إلى موقعك للعثور على المطاعم القريبة منك.";
+"useCurrentLocation"="استخدام الموقع الحالي";
+"enterNewAddress"="أدخل عنوانًا جديدًا";
+
+// Map Screen
+"confirmLocation"="قم بتأكيد الموقع";
+
+// AdvertizementSection
+"buyOferrs"="عروض الشراء";
+"her"="هي";
+"heightestRate"="أعلى معدل";
+"offersWeek"="عروض أسبوع";
+"inviteYou"="ارسال دعوة";
+
+// Near to Restaurants
+"nearRestaurants"="بالقرب منك";
+"mcDonalds"="ماكدونالدز";
+////
+////
+///////////////////////////////
+
+
+
+
+///*
+//  Localizable1.strings
+//  Mofers
+//
+//  Created by Rashdan Natiq on 2023-03-06.
+//
+//*/
+//
+//"splashTagLine"="Made to Make you Happy.. By Saving";
+//"home"="Home";
+//"saved"="Saved";
+//"notification"="Notifications";
+//"profile"="Profile";
+//
+//"categories"="Categories";
+//"cafe"="Cafe";
+//"restaurant"="Restaurants";
+//"streetFood"="Street Food";
+//"dealsTagLine"="Deals of the day";
+//"placeholderCafe"="Find a Cafe";
+//"placeholderRestaurant"="Find a Restaurants";
+//"share"="Share";
+//"more"="More";
+//////////////////////////////
+//"off"="30% OFF";
+//"sliderSubTitle"="Dessert Is So Needed";
+//"promoCode"="Promo Code:4343";
+//////////////////////////////
+//// Login;
+//"helloThere"="Hello There";
+//"enterPhoneNumber"="Enter your Phone Number to Login, Or";
+//"createAccount"="Create Account";
+//"mobileNumber"="Mobile Number";
+//"password"="Password";
+//"login"="Login";
+//"or"="OR";
+//"apple"="Apple";
+//"cancel"="Cancel";
+//"forgetPassword"="Forget Password";
+//// Categories;
+//"meat"="Meat";
+//"coffee"="Coffee";
+//"italian"="Italian";
+//"breakFast"="BreakFast";
+//"bakery"="Bakery";
+//"american"="American";
+//"bbq"="BBQ";
+//"saudi"="Saudi";
+//"partyBox"="Party Box";
+//"burgers"="Burgers";
+//"healtyFood"="Healty Food";
+//"sandwiched"="Sandwiched";
+//"asian"="Asian";
+//"international"="International";
+//
+//
+///////////////////////////
+//// Profile Screen
+//"settings"="Settings";
+//"settingSubTitle"="Check the status of settings";
+//
+//// Manage Section
+//"manage"="Manage";
+//"editProfile"="Edit Profile";
+//"editProfileTitle"="Change your account information";
+//"changePassword"="Change Password";
+//"changePasswordTitle"="Change your password";
+//"editCity"="Edit City";
+//"editCityTitle"="Change your city";
+//
+//// Notification Section
+//"notification"="Notification";
+//"pushNotification"="Push Notification";
+//"pushNotificationTitle"="For daily update you will get it";
+//"emailNotification"="Email Notification";
+//"emailNotificationTitle"="Get update to your Email";
+//
+//// More Section
+//"faq"="FAQ?";
+//"termsConditions"="Conditions and policies";
+//"rateUs"="Rate Us";
+//"rateUsTitle"="Rate us playstore,appstore";
+//"suggest"="Suggest";
+//"logout"="Logout";
+//
+//// Setting Screen
+//"setting"="Setting";
+//"language"="Language";
+//"english"="English";
+//"arabic"="Arabic";
+//"cancel"="CANCEL";
+//"selectLanguage"="Select Language";
+//"deleteAccount"="Delete Account";
+//"save"="Save";
+//
+//// Delete Account
+//"deleteAccount"="Delete Account";
+//"delAccountTitle"="You are about to delete your account";
+//"delAccountDiscription"="Please tell us why do you want to; delete your account";
+//"delAccountReason1"="I dont want to use anymore";
+//"delAccountReason2"="I am using another account";
+//"delAccountReason3"="I am not satisfied your service";
+//"delAccountReason4"="App is not working properly";
+//"delAccount"="DELETE MY ACCOUNT NOT";
+//"changeMind"="I,VE CHANGE MY MIND";
+//
+//// Delete Account PopUp
+//"request"="Your Request";
+//"requestTitle"="Successfully";
+//"requestDiscription"="you will now be logged out of your account";
+//"requestOk"="OK";
+//
+//// Edit Profile Screen Section;
+//"fullName"="Full Name";
+//"emailAddress"="Email Address";
+//"phoneNumber"="Phone Number";
+//"bio"="Bio";
+//"saveChanges"="SAVE CHANGES";
+//
+//// Change Password Screen Section;
+//"oldPassword"="Old Password";
+//"newPassword"="New Password";
+//"confirmPassword"="Confirm Password";
+//
+//// Edit City Section;
+//"amman"="Amman";
+//"zarqa"="Zarqa";
+//"irbid"="Irbid";
+//"russeifa"="Russeifa";
+//"sahab"="Sahab";
+//
+//// Suggest Screen Section
+//"suggestSubject"="Subject";
+//"suggestDetails"="Details";
+//"send"="Send";
+//
+//// FAQ Screen Section;
+//"groupTitle1"="You are about to delete your account";
+//"groupDiscription1"="Please tell us why do you want to delete your account";
+//"groupTitle2"="I dont want to use anymore";
+//"groupDiscription2"="Please tell us why do you want to delete your account";
+//"groupTitle3"="I am using another account";
+//"groupDiscription3"="Please tell us why do you want to delete your account";
+//"groupTitle4"="I am not satisfied with service";
+//"groupDiscription4"="Please tell us why do you want to delete your account";
+//"groupTitle5"="App is not working properly";
+//"groupDiscription5"="Please tell us why do you want to delete your account";
+//
+//// Terms And Conditions Screen
+//"termAndCondition"="Terms And Conditions";
+//
+//
+//// Rate Us Section;
+//"rateUsAlertTitle"="Oops";
+//"rateUsAlertSubTitle"="Coming Soon";
+//"rateUsAlertAction"="Cancel";
+//
+//// Logout Section;
+//"logoutAlertTitle"="Logout";
+//"logoutAlertSubTitle"="Are you sure you want to logout?";
+//"logoutAlertAction1"="Cancel";
+//"logoutAlertTitleAction2"="Logout";
+//
+//// Notification List Screen
+//"notificationListTitle"="Final Call";
+//"notificationListSubTitle"="Check the status";
+//
+//// Detail Card Section
+//"detailCardRealPrice"="245 SAR";
+//"detailCardDiscount"="90 SAR";
+//"detailCardTitle"="Esquiresksa";
+//"detailCardSubTitle"="Alsafa District,North of jeddah";
+//
+//// Detail Page Screen
+//"detailCardDiscription"="Alsafa District,North of jeddah Alsafa District,North of jeddah Alsafa District,North of jeddah Alsafa District,North of jeddah Alsafa District,North of jeddah Alsafa District,North of jeddah"; // pending tran
+//"details"="Details";
+//"rating"="Rating";
+//"highlighted"="Highlighted";
+//"highlightedSubTitle"="Drive into a world of flavours and relish 2 fresh shrimp meals including rice and corn for 2 people from habaromahar for SAR 99 only!"; // pending tran
+//"conditions"="Conditions";
+//"conditionSubTitle1"="Valid for 30 days from date to purchase";
+//"conditionSubTitle2"="Valid daily for takeaway order only";
+//"conditionSubTitle3"="Timing: From 3pm to 1am";
+//"conditionSubTitle4"="All preventive measures and precautions are applied according to the instruction of the Ministry of health";
+//"conditionSubTitle5"="Please read the terms that apply for all deals here";
+//"conditionSubTitle6"="This merchant will accept your purchased voucher when presented on a mobile device, or can redeem from the Cobone App or if you prefer from a printed copy";  // pending tran
+//"noticeTitle"="Please note:";
+//"noticeSubTitle"="From iOS 16 and later, we can pass an array of Hashable data directly to the NavigationStack to control which data is currently on the stack";  // pending tran
+//
+//// Rating Section
+//"reviewTitle"="100% of app customer reviews documents the reviews after they got the offer";
+//"reviewTag1"="Offer Sqaure service";  // add to google sheet
+//"reviewTag2"="search steps";  // add to google sheet
+//"reviewTag3"="Restaurant/cafe reception";  // add to google sheet
+//"reviewTag4"="Eating quality";  // add to google sheet
+//"reviewTag5"="offer price";  // add to google sheet
+//"reviewTag6"="location restaurant/cafe";  // add to google sheet
+//"dailyReviews"="Dalia,reviews";
+//"userReviewTitle"="Raged";
+//"userReviewDiscription"="They were about an hour late to us in a food arived cold,the dishes were different from what was described in a show";
+//"date"="23 Dec 2020";
+//
+//
+////  Reset Password Screen
+//"forgetPassword"="Forget password";
+//"resetPassword"="Reset Your Password";
+//"enterCodeDiscription"="Enter the 4-Digit code send to you at your mobile number";
+//"enterPassword"="Enter New Password";
+//"resetBtn"="Reset Password";
+//
+//// Forget Password Screen
+//"enterNumberDiscription"="Enter your Mobile number and we will send you a reset instruction";
+//"addNumber"="Mobile Number";
+//
+//// Create Account Done PopUp
+//"successAcountTitle"="Create new account";
+//"done"="DONE";
+//
+//// Add Phone Number Screen
+//"signup"="Signup";
+//"addMobile"="Add your Mobile";
+//"addNumberDiscription"="Enter your phone number to use review station and enjoy your food";
+//"phoneNumber"="Phone Number";
+//"addNumber"="ADD NUMBER";
+//
+//// Sign Up Screen
+//"enterEmail_password"="Enter your Name,Email and Password\nfor sign up.";
+//"signUtermsconditon"="By Signing up you agree to our Terms Conditions & Privacy Policy.";
+//"dateOfBirth"="Date of birth";
+//
+//// Reset OTP Screen
+//"dontReceiveCode"="Didn't receive code?";
+//"resendAgain"="Resend Again.";
+//
+//// Restaurant List
+//"himHortons"="Him hortons";
+//"countOffers"="Count Offers:3";
+//"distance"="Distance:45.0km";
+//"categoryType"="Category:Breakfast,lanch";
+//
+//// ReviewPostView
+//"dalia"="Dalia";
+//"userShareExperience"="Share details of your own experience at this place";
+//"post"="POST";
+//
+//// User Interest Page
+//"whatYouLike"="What's you like";
+//"driveThrough"="Drive Through";
+//"foodType"="Type of food";
+//"userConnect"="How Did You Hear About Us?";
+//"twitter"="Twitter";
+//"whatsapp"="WhatsApp";
+//"snapChat"="Snapchat";
+//"instagram"="Instagram";
+//"onDoor"="On Door";
+//"other"="Other";
+//
+//// Add Location Screen
+//"findNearRestaurant"="Find restaurants near you";
+//"findNearRestaurantDisc"="Please enter your location and allow access to your location to find restaurants near you.";
+//"useCurrentLocation"="Use Current Location";
+//"enterNewAddress"="Enter a new address";
+//
+//// Map Screen
+//"confirmLocation"="Confirm Location";
+//
+//// AdvertizementSection
+//"buyOferrs"="Buy Offers";
+//"her"="Her";
+//"heightestRate"="Highest Rate";
+//"offersWeek"="Offers Week";
+//"inviteYou"="invite You";
+//
+//// Near to Restaurants
+//"nearRestaurants"="Near to you";
+//"mcDonalds"="McDonald's";
+//
+//
+/////////////////////////////
+//

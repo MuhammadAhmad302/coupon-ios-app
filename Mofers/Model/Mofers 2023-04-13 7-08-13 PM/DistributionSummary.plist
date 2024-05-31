@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Mofers.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>15</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>E869F0E2CDACB0E305CE548EA491989A56066469</string>
+				<key>dateExpires</key>
+				<string>2024-03-07</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>8XD5K47P3F.com.arham.app.Mofers</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.applesignin</key>
+				<array>
+					<string>Default</string>
+				</array>
+				<key>com.apple.developer.team-identifier</key>
+				<string>8XD5K47P3F</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array/>
+			</dict>
+			<key>name</key>
+			<string>Mofers.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>2b191603-6961-4134-bb20-3d157fa75ef4</string>
+				<key>dateExpires</key>
+				<string>2024-03-07</string>
+				<key>name</key>
+				<string>iOS Team Store Provisioning Profile: com.arham.app.Mofers</string>
+			</dict>
+			<key>symbols</key>
+			<true/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>8XD5K47P3F</string>
+				<key>name</key>
+				<string>Dalia alharbi</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0.18</string>
+		</dict>
+	</array>
+</dict>
+</plist>
